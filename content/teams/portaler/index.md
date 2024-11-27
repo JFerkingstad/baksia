@@ -35,7 +35,7 @@ tags:
 {{< team/responsibilities title="Ansvarsområder" >}}
 
 - Oppdatere og vedlikeholde norge.no
-- Videreutvikle, oppdatere og vedlikeholde altinn.no
+- Videreutvikle, oppdatere og vedlikeholde Informasjonsportalen (info.altinn.no)
 - Ensrette og konsolidere sluttbrukerportaler driftet av Digdir
 - Sammenhengende design på tvers av teams
 - Framtidas innbyggerdialog
